@@ -4,7 +4,7 @@ A real-time AI-powered predictive maintenance dashboard for monitoring Heat Exch
 
 ---
 
-## 🚀 Live Demo
+🚀 Live Demo  
 https://heat-exchanger-ai-dashboard.streamlit.app/
 
 ## 📌 Project Overview
@@ -27,7 +27,7 @@ It acts as a **Digital Twin prototype**, combining:
 
 ---
 
-## 🧠 Machine Learning Pipeline
+🧠 Machine Learning Pipeline (Feature Engineering + Classification)
 
 ### Input Features:
 - Hot Inlet Temperature (°C)
