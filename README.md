@@ -57,3 +57,8 @@ It acts as a **Digital Twin prototype**, combining:
 ├── README.md
 ├── xgboost_predictive_maintenance_model.pkl
 └── standard_scaler.pkl
+
+Author:
+Syed Omer Hussaini
+farazhussaini124@gmail.com
+https://www.linkedin.com/in/syed-omer-hussaini-b023437a/
