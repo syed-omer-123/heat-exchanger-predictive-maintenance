@@ -1,7 +1,8 @@
 # 🛠️ AI Predictive Maintenance System (Heat Exchanger)
 
-A real-time AI-powered predictive maintenance dashboard for monitoring Heat Exchanger health using Machine Learning, physics-based simulation, and Streamlit.
+Industrial equipment failures can lead to expensive downtime.
 
+This project demonstrates how telemetry data can be transformed into real-time health monitoring and failure prediction using machine learning.
 ---
 
 🚀 Live Demo  
